@@ -11,5 +11,6 @@
     // example 3 above is imcorrect insteaD  would use code below:
     //   const allSameQuotes = 'I\'ve had a perfectly wonderful evening, but this wasn\'t it.';
     
-    
+    let innerHtml = "<p>Click here to <a href="#Home">return home</a></p>";
+console.log(innerHtml);
      
