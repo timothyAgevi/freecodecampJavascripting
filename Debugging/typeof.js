@@ -8,4 +8,7 @@
     //  and one type for mutable items: Object. 
     // Note that in JavaScript, arrays are technically a type of object.   
 
-    
+    let seven = 7;
+let three = "3";
+console.log(seven + three);
+// Only change code below this line
