@@ -7,5 +7,5 @@
 
         let receivables = 10;
 let payables = 8;
-let netWorkingCapital = recievables - payable;
+let netWorkingCapital = receivables - payablesgit;
 console.log(`Net working capital is: ${netWorkingCapital}`);
