@@ -11,3 +11,6 @@ function catTalk() {
 
 }
 catTalk();
+
+// So unlike var, when using let,
+//  a variable with the same name can only be declared once
