@@ -20,4 +20,4 @@
       }
       
       let matrix = zeroArray(3, 2);
-      // console.log(matrix);
+      console.log(matrix);
