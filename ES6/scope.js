@@ -2,7 +2,7 @@
 //Be certain not to use the var keyword anywhere in your code.
 
 function checkScope() {
-    var i = 'function scope';
+    let i = 'function scope';
     if (true) {
       j = 'block scope';
       console.log('Block scope i is: ', j);
