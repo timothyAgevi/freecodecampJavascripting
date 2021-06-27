@@ -5,8 +5,9 @@ function checkScope() {
     let i = 'function scope';
     if (true) {
       j = 'block scope';
-      console.log('Block scope i is: ', j);
+      console.log('Block scope j is: ', j);
     }
     console.log('Function scope i is: ', i);
     return i;
   }
+  checkScope()
