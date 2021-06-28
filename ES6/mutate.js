@@ -14,7 +14,7 @@ function editInPlace() {
   s[0] = 2;
   s[1] = 5;
   s[2] = 7;
-
+  console.log(s)
   // Only change code above this line
 }
 editInPlace();
