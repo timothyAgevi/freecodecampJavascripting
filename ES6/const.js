@@ -12,7 +12,7 @@ function printManyTimes(str) {
   
     const SENTENCE = str + " is cool!";// Declared it with const
     // capitalized  sentence
-    for (let i = 0; i < str.length; i+=2) {
+    for (let i = 0; i < str.length; i+=2) {//convert var to let
       console.log(SENTENCE);// capitalized sentence
     }
   
