@@ -10,9 +10,10 @@ function printManyTimes(str) {
 
     // Only change code below this line
   
-    var sentence = str + " is cool!";
+    const SENTENCE = str + " is cool!";// Declared it with const
+    // capitalized  sentence
     for (var i = 0; i < str.length; i+=2) {
-      console.log(sentence);
+      console.log(SENTENCE);// capitalized sentence
     }
   
     // Only change code above this line
