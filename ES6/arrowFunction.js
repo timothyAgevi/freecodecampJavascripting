@@ -4,7 +4,6 @@
 const magic = ()=> {
     return new Date();
   };
-
 //   You should replace the var keyword.
 
 // magic should be a constant variable (by using const).
